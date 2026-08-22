@@ -1,0 +1,23 @@
+"Parameter","Value"
+"Number of simulations",10000
+"Baseline CBR (%)",10.71
+"Mean simulated CBR (%)",10.7161358803772
+"SD simulated CBR (%)",1.52119254398286
+"Baseline traffic growth (%)",5
+"Mean simulated growth (%)",5.00211665616547
+"SD simulated growth (%)",0.12190649111136
+"Baseline bituminous MR (MPa)",3000
+"Mean simulated bituminous MR (MPa)",3002.44983839005
+"SD simulated bituminous MR (MPa)",750.107491181457
+"Baseline granular MR (MPa)",98.6
+"Mean simulated granular MR (MPa)",98.513074261709
+"SD simulated granular MR (MPa)",31.8608471898969
+"Mean subgrade MR (MPa)",80.1204139728614
+"Baseline design MSA",95
+"Mean simulated MSA",76.2865972175276
+"Median simulated MSA",76.2758685400643
+"SD simulated MSA",1.07168751424139
+"5th percentile MSA",74.5414661248441
+"95th percentile MSA",78.0422055335776
+"Reliability (%)",100
+"Probability of failure (%)",0

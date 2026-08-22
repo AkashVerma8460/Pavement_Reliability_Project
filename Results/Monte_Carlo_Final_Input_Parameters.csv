@@ -1,0 +1,5 @@
+"Parameter","Distribution","Baseline","SD","COV","Unit"
+"CBR","Log-normal",10.71,1.51125465734748,0.173139146303032,"%"
+"Traffic_Growth_Rate","Normal",5,0.121196248342285,0.0242392496684571,"%"
+"Bituminous_MR","Log-normal",3000,750,0.25,"MPa"
+"Granular_MR","Log-normal",98.6,32.045,0.325,"MPa"

@@ -1,0 +1,5 @@
+"Parameter","Spearman_Correlation","Absolute_Correlation","Rank"
+"Traffic Growth Rate",1,1,1
+"Granular MR",0.0168446811364468,0.0168446811364468,2
+"Bituminous MR",-0.0073475297654753,0.0073475297654753,3
+"CBR",0.00695183512551835,0.00695183512551835,4
