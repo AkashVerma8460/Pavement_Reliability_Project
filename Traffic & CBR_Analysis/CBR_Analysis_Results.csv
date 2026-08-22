@@ -1,0 +1,2 @@
+"Number_of_Observations","Mean_CBR_percent","Median_CBR_percent","SD_CBR_percent","Minimum_CBR_percent","Maximum_CBR_percent","CBR_90th_Percentile","Design_CBR_percent","Design_CBR_Method"
+180,8.73,8.59,1.51,6.18,14.33,10.71,10.71,"90th percentile - IRC:37-2018"
