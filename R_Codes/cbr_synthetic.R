@@ -6,7 +6,7 @@
 set.seed(123)
 
 # ------------------------------------------------------------
-# 1. Specify the folder where you want to save the dataset
+# 1. saving the dataset
 # ------------------------------------------------------------
 
 save_folder <- "E:/Pavement_Reliability_Project/_Raw_Data"
