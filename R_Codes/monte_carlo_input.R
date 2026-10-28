@@ -109,7 +109,7 @@ CBR_values <-
 # ------------------------------------------------------------
 # 5. CBR BASELINE
 #
-# YOUR CALCULATED DESIGN CBR
+# CALCULATED DESIGN CBR
 # ------------------------------------------------------------
 
 CBR_baseline <-
@@ -131,7 +131,7 @@ CBR_data_SD <-
   )
 
 
-# COV from your actual CBR dataset
+# COV from actual CBR dataset
 
 CBR_COV <-
   CBR_data_SD /
@@ -222,7 +222,7 @@ Growth_values <-
 # ------------------------------------------------------------
 # 10. TRAFFIC GROWTH BASELINE
 #
-# YOUR SELECTED BASELINE
+#  SELECTED BASELINE
 # ------------------------------------------------------------
 
 Growth_baseline_percent <-
@@ -232,7 +232,7 @@ Growth_baseline_percent <-
 # ------------------------------------------------------------
 # 11. TRAFFIC GROWTH SD
 #
-# Calculated from your cleaned traffic data.
+# Calculated from  cleaned traffic data.
 # ------------------------------------------------------------
 
 Growth_data_mean <-
@@ -264,7 +264,7 @@ Growth_SD <-
 # ------------------------------------------------------------
 # 12. BITUMINOUS BASELINE
 #
-# YOUR IRC-BASED VALUE
+#  IRC-BASED VALUE
 # ------------------------------------------------------------
 
 Bituminous_MR_baseline <-
@@ -332,7 +332,7 @@ Bituminous_MR_sdlog <-
 # ------------------------------------------------------------
 # 16. GRANULAR BASELINE
 #
-# YOUR IRC-BASED VALUE
+#  IRC-BASED VALUE
 # ------------------------------------------------------------
 
 Granular_MR_baseline <-
